@@ -1,4 +1,4 @@
-Project Title: A Chatbot for Summarizing Employee Reviews
+Project Title: A Chatbot for Summarizing Employee Reviews (Iowa Business Analytics Case Competition https://tippie.uiowa.edu/masters-business-analytics/full-time/business-analytics-case)
   
 Objectives: In the Iowa Business Analytics Case Competition, our team aimed to help a leading aluminum packaging company improve its human resources management.
 
